@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **quockientran100@gmail.com**
 
-- ⚡ Fun fact **I really lazy at coding**
+- ⚡ Fun fact **I really lazy to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
