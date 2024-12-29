@@ -10,9 +10,7 @@
  
  🔭 I’m currently working on **Code cung Kien**
  
- 🌱 I’m currently learning **Machine Learning**
-
-⚡ Fun fact: I like playing **Genshin Impact** []~(￣▽￣)~*
+ 🌱 I’m currently learning **Artificial Intelligence**
 
  </div>
  
